@@ -1,0 +1,89 @@
+{
+  "version": "2026-10-21-v3",
+  "sections": [
+    {
+      "title": "Éditeur, version et entrée en vigueur",
+      "body": "Coparent est édité par Philippe Ruiz, 25 rue himalia, Juvignac 34990, France. Assistance : coparent.appcontact@gmail.com. Contact RGPD : coparent.appcontact@gmail.com. Cette version est datée du 21 octobre 2026. Elle entre en vigueur pour chaque utilisateur à son acceptation explicite après sa mise à disposition lors de la mise en service V1 ; sa préparation ou sa publication seule ne vaut pas acceptation. Les versions antérieures restent consultables dans l’historique juridique."
+    },
+    {
+      "title": "Objet et personnes utilisatrices",
+      "body": "Coparent permet à des utilisateurs majeurs d’organiser un foyer parental partagé : garde, échanges, agenda, dépenses, pensions, notes et documents. Chaque parent utilise son compte personnel. Coparent ne décide ni de l’autorité parentale, ni d’une garde ou pension, et n’exécute pas les virements entre parents. Les données, calculs et validations sont déclaratifs ; ils ne remplacent ni un jugement, ni une convention applicable, ni un justificatif bancaire."
+    },
+    {
+      "title": "Compte et accès au foyer",
+      "body": "Protégez vos identifiants et adressez une invitation uniquement à la personne habilitée. Un foyer comporte deux rôles parentaux ; les rôles A/B et l’invitation ne prouvent ni l’identité civile ni l’étendue des droits sur l’enfant. Les membres autorisés consultent les informations partagées selon les règles du service. N’y placez pas un contenu qui doit rester confidentiel à l’égard d’un autre membre. Une modification de situation ou un désaccord se signale à l’assistance et ne justifie pas de contourner les accès."
+    },
+    {
+      "title": "Nature et périmètre de Documents",
+      "body": "Documents est un rangement généraliste de documents personnels, familiaux et administratifs. Créez librement vos dossiers, choisissez leurs noms, importez les formats pris en charge, renommez, déplacez, consultez et partagez selon vos droits. Un nom choisi, y compris « Médical », ne change ni les accès ni la destination du service. Coparent n’est ni un dossier médical ou patient, ni un professionnel de santé, ni un service de télémédecine ou un coffre-fort numérique de santé."
+    },
+    {
+      "title": "Contenus sensibles et usage non admis",
+      "body": "La V1 ne propose pas de fonction dédiée aux données de santé. N’utilisez pas Documents, notes, événements, photos ou justificatifs pour des contenus dont le traitement exige un régime ou des garanties spécifiques non fournis par Coparent. Coparent ne réalise aucun OCR de détection médicale, ne classe pas les fichiers par leur contenu et ne lit pas automatiquement leur contenu pour en déterminer la nature ; les opérations techniques d’aperçu, signature et transfert nécessaires au service demeurent possibles. Un dépôt sensible reste techniquement possible. Le dépôt volontaire et l’acceptation des CGU ne constituent ni consentement général au sens du RGPD ni exemption HDS. Un contenu sensible signalé donne lieu à un examen humain, pas à une autorisation durable de stockage médical."
+    },
+    {
+      "title": "Droits sur les informations et droits des enfants",
+      "body": "N’ajoutez que les informations nécessaires que vous êtes autorisé à utiliser et partager. Respectez la vie privée et l’image de l’enfant, ses droits propres, son âge et sa maturité, ainsi que les droits de l’autre parent et des tiers et les décisions applicables. La qualité de parent ne confère pas automatiquement tous les droits sur chaque donnée. Associez l’enfant à l’information et aux choix qui le concernent de manière adaptée. Ne publiez ni n’exportez une photo ou une pièce contestée en présumant l’accord de l’autre personne. Coparent reste responsable de ses propres obligations légales."
+    },
+    {
+      "title": "Propriété des fichiers",
+      "body": "Vous conservez vos droits sur vos fichiers ; l’import ne transfère pas leur propriété à Coparent. Respectez les droits des tiers. Coparent ne vend pas les documents familiaux et ne les exploite pas à des fins publicitaires. Un export peut inclure des données d’autres personnes : vérifiez le destinataire et la nécessité de la transmission."
+    },
+    {
+      "title": "Autorisation technique limitée au service",
+      "body": "Pour fournir les fonctions choisies, vous autorisez seulement les opérations nécessaires de stockage, copie technique, transmission aux destinataires autorisés, aperçu, export et fabrication du PDF signé. Cette autorisation est non exclusive et limitée aux finalités et à la durée nécessaires au service et aux conservations licites décrites dans la confidentialité. Elle ne permet pas une publication libre des fichiers, une cession commerciale de leur contenu ou un entraînement d’IA par Coparent sur les documents."
+    },
+    {
+      "title": "Signature intégrée des PDF",
+      "body": "Une demande porte sur un PDF original et un signataire désigné. Le service recueille son tracé, l’intègre à une copie PDF, enregistre les dates et les empreintes SHA-256 de l’original et du fichier signé. Le signataire doit examiner le document et signer pour lui-même. Les protections limitent les modifications et suppressions ordinaires en attente ou après signature. Cette fonction n’est revendiquée ni comme signature électronique avancée ni comme signature qualifiée au sens d’eIDAS ; elle ne vérifie pas à elle seule l’identité civile, la capacité ou tous les pouvoirs du signataire. Sa valeur probatoire dépend des circonstances et du droit applicable. Une rectification, limitation ou demande de suppression de preuve est examinée séparément ; aucune altération silencieuse du PDF original n’est promise."
+    },
+    {
+      "title": "Abonnement mensuel et prix",
+      "body": "Sur iOS, l’accès payant est proposé par abonnement mensuel Apple In-App Purchase pour le foyer, utilisable par ses membres autorisés selon leurs droits. Un parent souscrit avec son propre compte Apple ; l’achat reste personnel et n’est pas transféré au coparent. Le prix affiché dans Coparent provient du produit Apple sous la forme localisée fournie par le magasin ; le prix, la devise, la période et les taxes présentés par Apple avant confirmation déterminent le montant effectivement payé. Aucun montant fixe en euros ou dans toutes les devises n’est garanti. RevenueCat assure la gestion technique des transactions et droits ; le serveur vérifie l’accès. Un accès de démonstration Apple Review ou un achat Sandbox n’est pas un abonnement Production."
+    },
+    {
+      "title": "Essai et renouvellement",
+      "body": "L’essai de Coparent, lorsqu’il est proposé, dure quatorze jours à compter de l’activation du foyer indiquée dans l’application et n’est pas renouvelé en quittant ou recréant un compte. Il n’est pas à lui seul une commande Apple ou un débit automatique. Un abonnement Apple effectivement confirmé est renouvelé selon la période mensuelle et les conditions affichées par Apple, sauf annulation du renouvellement. Consultez les échéances dans les réglages d’abonnement Apple ; les éventuelles offres magasin ont leurs conditions propres affichées avant achat."
+    },
+    {
+      "title": "Résiliation, restauration et remboursement",
+      "body": "Gérez ou annulez le renouvellement dans Réglages iOS → votre compte Apple → Abonnements. L’annulation évite les renouvellements suivants selon les délais Apple ; elle ne garantit pas le remboursement de la période commencée. Utilisez Restaurer mes achats avec le même compte applicatif et le compte Apple d’achat ; la restauration vérifiée ne transfère pas un achat entre parents. Les remboursements peuvent être demandés à Apple via https://reportaproblem.apple.com ; leur traitement relève des règles applicables, sans priver le consommateur de ses droits contre le fournisseur du service. Supprimer son compte Coparent ou quitter un foyer ne résilie pas automatiquement l’abonnement Apple."
+    },
+    {
+      "title": "Rétractation et exécution du service",
+      "body": "Le consommateur dispose en principe de quatorze jours à compter de la conclusion à distance pour exercer son droit de rétractation. Pour un achat Apple, utilisez son parcours de demande ou adressez une déclaration non ambiguë à coparent.appcontact@gmail.com avec votre identité et la référence d’achat, sans mot de passe. Si vous demandez expressément le début d’un service payant avant la fin du délai, seule la part légalement due pour le service effectivement fourni peut être exigée dans les conditions du Code de la consommation. Une exception légale à la rétractation exige ses conditions et, lorsqu’ils sont requis, un accord exprès et une reconnaissance distincte ; l’acceptation des présentes CGU ne les remplace pas. Coparent ne déclare pas la perte automatique de ce droit dès la première utilisation."
+    },
+    {
+      "title": "Modèle de déclaration de rétractation",
+      "body": "À l’attention de Philippe Ruiz, 25 rue himalia, Juvignac 34990, France, coparent.appcontact@gmail.com : je vous notifie ma rétractation du contrat relatif à mon abonnement Coparent. La déclaration précise la date de souscription, le nom et l’adresse du consommateur, l’adresse e-mail du compte, la référence de commande Apple et la date de la déclaration. Signature du consommateur uniquement pour un envoi sur papier. Ce modèle facultatif peut être remplacé par toute déclaration non ambiguë."
+    },
+    {
+      "title": "Départ, expiration et données partagées",
+      "body": "Le départ ou la suppression de compte retire les accès de la personne selon la procédure du service, sans lui donner le droit de détruire seul l’historique nécessaire à l’autre parent. Une période d’accès payée demeure soumise à sa validité et aux contrôles serveur ; sa reprise par un autre parent nécessite son achat propre, sans transfert du reçu, du compte Apple ou du moyen de paiement. L’expiration peut limiter l’accès métier ; les moyens d’assistance, d’exercice des droits, d’export et de suppression prévus restent disponibles selon leurs règles. Dans la V1 avec fournisseur réel, aucune suppression automatique de tout le foyer à « expiration + 48 heures » n’est annoncée. La résiliation seule n’efface pas les données ; les durées et procédures de clôture figurent dans la confidentialité."
+    },
+    {
+      "title": "Suppression du compte et conservation",
+      "body": "Demandez la suppression depuis les paramètres après vérification du mot de passe, ou exercez vos droits auprès de coparent.appcontact@gmail.com. Le traitement distingue données strictement personnelles et données partagées nécessaires aux droits d’autres personnes. Le serveur peut supprimer automatiquement un périmètre exclusif ; un périmètre partagé ou protégé appelle un examen humain et une décision motivée. Retrait des accès, suppression Auth, pseudonymisation des références historiques et effacement des octets sont des opérations distinctes. « Ancien parent » reste une pseudonymisation, pas une anonymisation garantie. Les copies exportées vers d’autres applications ne sont pas toutes rappelables et les sauvegardes ne disparaissent pas instantanément."
+    },
+    {
+      "title": "Signalement et sécurité",
+      "body": "Signalez un contenu litigieux, sensible ou mal partagé depuis À propos de Documents, l’assistance ou coparent.appcontact@gmail.com, avec une référence sans joindre inutilement le fichier ou recopier ses détails. Après vérification proportionnée des droits, Coparent examine restriction, rectification, suppression ou conservation nécessaire, en tenant compte de l’enfant et de l’autre parent. Aucun effacement ou retrait de lecture n’est réputé exécuté par le seul envoi du signalement. Les fichiers, liens temporaires et exports sont sensibles ; sécurisez votre appareil. Usurpation, harcèlement, intrusion dans un autre foyer et contournement des protections sont interdits."
+    },
+    {
+      "title": "Suspension proportionnée et réclamation",
+      "body": "En cas d’abus établi, de risque de sécurité ou d’injonction applicable, Coparent peut limiter les opérations strictement nécessaires ou suspendre l’accès concerné, en privilégiant la mesure proportionnée. Une action urgente peut précéder l’information lorsqu’elle est nécessaire à la protection des personnes ou de l’enquête ; l’utilisateur reçoit ensuite les motifs communicables et peut contester auprès de coparent.appcontact@gmail.com. L’assistance et l’exercice des droits ne sont pas supprimés comme sanction. Une suspension ne décide pas du conflit parental et ne résilie pas à elle seule un achat Apple."
+    },
+    {
+      "title": "Disponibilité, mises à jour et garanties légales",
+      "body": "Coparent fournit le service avec diligence et les mises à jour nécessaires à son fonctionnement et à sa sécurité. Une interruption, une erreur déclarative ou un rappel retardé reste possible ; contrôlez les échéances et conservez les pièces nécessaires à vos démarches. Le consommateur bénéficie des garanties légales applicables aux services numériques, notamment de la conformité pendant toute la période de fourniture continue : il peut demander la mise en conformité sans frais dans les conditions légales et, lorsque les conditions sont réunies, une réduction du prix ou la résolution du contrat. Contact : coparent.appcontact@gmail.com. Aucune clause n’exclut ces garanties, la responsabilité propre de Coparent ou les droits impératifs. Les limites des calculs et signatures ne constituent pas une exclusion générale de recours."
+    },
+    {
+      "title": "Versions et nouvelles acceptations",
+      "body": "L’inscription exige une acceptation explicite de la version affichée. La preuve associe le compte, la version, sa référence et empreinte, ainsi qu’une date serveur. Les anciennes versions restent accessibles ; aucune acceptation n’est fabriquée pour les comptes anciens. Coparent informe des changements significatifs par un moyen approprié, notamment dans l’application ou par contact direct, au moins trente jours avant leur application, sauf exigence légale ou urgence de sécurité justifiant un délai adapté. L’information précise alors le motif et la date. Lorsqu’un accord nouveau est nécessaire, une nouvelle acceptation explicite est demandée avant l’application des nouvelles obligations ; ni le silence ni l’usage continu ne valent cette acceptation. Un refus permet de cesser le service et d’exercer export, suppression et droits, sans renonciation aux droits ni sommes légalement dues. La confidentialité et tout consentement distinct ne se confondent pas avec les CGU."
+    },
+    {
+      "title": "Droit applicable et règlement des différends",
+      "body": "Le droit français s’applique, sans priver le consommateur de la protection impérative dont il bénéficie dans son pays de résidence habituelle. Adressez d’abord votre réclamation à coparent.appcontact@gmail.com ou à 25 rue himalia, Juvignac 34990, France. Le consommateur peut recourir gratuitement à la médiation de la consommation après une réclamation écrite infructueuse, dans les conditions légales. Aucune clause n’impose exclusivement un tribunal au consommateur ; les règles de compétence protectrices restent applicables. Une réclamation relative aux données personnelles peut être adressée à la CNIL, https://www.cnil.fr/fr/plaintes, indépendamment d’un litige commercial."
+    }
+  ]
+}
