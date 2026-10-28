@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<meta name="referrer" content="no-referrer">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; connect-src 'self'; style-src 'unsafe-inline'; base-uri 'none'; form-action 'none'">
+<title>Invitation au foyer · Coparent</title>
+<style>
+*{box-sizing:border-box}body{font:17px/1.65 system-ui;margin:0;background:#f6f7fa;color:#1d2b3c}main{max-width:680px;margin:auto;padding:32px 22px}h1{line-height:1.2}section{margin:24px 0;padding:22px;background:white;border:1px solid #e4e7ed;border-radius:20px}a{color:#315ea8;overflow-wrap:anywhere}nav{display:flex;flex-wrap:wrap;gap:16px}.code{display:block;font:600 18px/1.6 ui-monospace,monospace;overflow-wrap:anywhere;user-select:all;margin:16px 0}.button,button{display:inline-block;min-height:44px;max-width:100%;padding:10px 18px;margin:6px 6px 6px 0;border-radius:12px;border:1px solid #dce2eb;background:#fff;color:#315ea8;font:600 16px/1.5 system-ui;text-decoration:none;cursor:pointer}.primary{color:#fff;background:#315ea8;border-color:#315ea8}small{display:block;color:#5e6876}footer{margin-top:32px}[hidden]{display:none!important}
+</style>
+<script src="invite.js" defer></script>
+</head>
+<body><main>
+<nav aria-label="Navigation"><a href="index.html">Coparent</a><a href="support.html">Assistance</a></nav>
+<h1>Rejoindre votre foyer dans Coparent</h1>
+<p>Vous avez reçu une invitation de l’autre parent. Vous pourrez vérifier le foyer dans l’application avant de le rejoindre.</p>
+<p id="invalid" role="alert" hidden>Ce lien ne contient pas de code valide. Demandez à l’autre parent de vous renvoyer son invitation complète.</p>
+<div id="invitation" hidden>
+<section><h2>Votre code d’invitation</h2><p>Conservez ce code avant d’installer l’application.</p>
+<code class="code" id="code"></code><button id="copy" type="button">Copier le code</button><p id="copy-status" role="status" aria-live="polite"></p>
+<small>Invitation privée, valable 30 jours et utilisable une fois. Un nouveau lien remplace l’ancien. Seul le serveur Coparent peut confirmer sa validité.</small></section>
+<section><h2>Coparent est déjà installé ?</h2><a id="open" class="button primary">Ouvrir Coparent</a><p>L’invitation sera conservée pendant votre connexion ou votre inscription.</p></section>
+<section><h2>Vous n’avez pas encore Coparent ?</h2><ol><li>Copiez le code ou conservez ce message d’invitation.</li><li>Téléchargez Coparent lorsqu’elle sera disponible sur l’App Store.</li><li>Créez votre compte ou connectez-vous, puis choisissez <strong>Rejoindre un foyer</strong>.</li><li>Collez le code dans <strong>Code d’invitation</strong> et confirmez le foyer présenté.</li></ol>
+<a id="store" class="button primary" hidden>Télécharger sur l’App Store</a><p id="store-pending">Le lien App Store sera proposé ici dès sa configuration. En attendant, conservez votre invitation.</p>
+<p>Après l’installation, vous pouvez aussi revenir sur cette page et toucher « Ouvrir Coparent ». L’installation seule ne transmet pas automatiquement le code.</p></section>
+</div>
+<noscript><p>Activez JavaScript pour afficher le code du lien, ou copiez directement le code présent dans le message de l’autre parent.</p></noscript>
+<footer><nav aria-label="Informations légales"><a href="privacy.html">Politique de confidentialité</a><a href="terms.html">Conditions générales d’utilisation</a><a href="support.html">Assistance</a></nav></footer>
+</main></body></html>
